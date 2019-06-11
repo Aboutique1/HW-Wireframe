@@ -1,3 +1,29 @@
+
 body {
-    background:white;
+    background:grey;
+    padding-top:5px;
+    padding-left: 22px;
+    width:100%;
+    overflow: hidden;
+
+
 }
+
+header {
+width: 80%;
+height: 70px;
+background:white;
+margin: 0 auto;
+margin-bottom: 10px;
+
+}
+
+nav{
+width: 80%;
+height: 70px;
+background:white;
+margin: 0 auto;
+
+}
+
+
