@@ -23,12 +23,23 @@ nav{
 width: 800px;
 height: 70px;
 background:white;
-padding-top:10px
+padding-top:10px;
+margin-bottom: 10px;
 
 } 
 
 .hn{
     text-align: center;
+}
+
+.BIG{
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.whiteText{
+    padding-top: 6px;
+    color: white
 }
 
 
@@ -62,7 +73,7 @@ padding-top: 10px;
 
 article{
 width: 400px;
-height: 140px;
+height: 150px;
 background: grey;
 margin: 0 auto;
 }
@@ -73,4 +84,10 @@ width: 350px;
 height: 40px;
 margin: 0 auto;
 margin-top: 10px;
+
+
+}
+
+.moveDown{
+    padding-top:6px;
 }
