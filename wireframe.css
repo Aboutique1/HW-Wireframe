@@ -43,7 +43,14 @@ height: 210px;
 background: orange;
 float: right;
 margin-right:100px;
+margin-bottom: 20px;
+}
 
+footer{
+width: 800px;
+height: 70px;
+background: white;  
+clear: both;  
 
 
 }
