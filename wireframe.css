@@ -3,27 +3,47 @@ body {
     background:grey;
     padding-top:5px;
     padding-left: 22px;
-    width:100%;
-    overflow: hidden;
+    width:900px;
+    margin: 0 auto;
 
 
 }
 
 header {
-width: 80%;
+width: 800px;
 height: 70px;
 background:white;
-margin: 0 auto;
 margin-bottom: 10px;
 
 }
 
 nav{
-width: 80%;
+width: 800px;
 height: 70px;
 background:white;
-margin: 0 auto;
+
+} 
+
+
+
+section{
+width: 450px;
+height: 210px;
+background: white;
+padding-right:20px;
+float: left;                  /* Add this */
+
+
 
 }
 
+aside{
+width: 300px;
+height: 210px;
+background: orange;
+float: right;
+margin-right:100px;
 
+
+
+}
