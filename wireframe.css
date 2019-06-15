@@ -1,18 +1,20 @@
 
 body {
-    background:grey;
+    font-family: 'Helvetica Neue', 'Arial', Helvetica, sans-serif;
     padding-top:5px;
     padding-left: 22px;
-    width:900px;
+    width:960px;
     margin: 0 auto;
-
+    background:#777;
+    font-size: 18px;
+    color:#777;
 
 }
 
 header {
 width: 800px;
 height: 70px;
-background:white;
+background:#ebebeb;
 margin-bottom: 10px;
 padding-top:10px
 
@@ -74,7 +76,8 @@ padding-top: 10px;
 article{
 width: 400px;
 height: 150px;
-background: grey;
+background: #777;
+color: #ebebeb;
 margin: 0 auto;
 }
 
